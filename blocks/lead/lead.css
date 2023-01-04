@@ -1,4 +1,4 @@
-.lead{
+.lead {
     display: flex;
     align-content: center;
     flex-direction: column;
@@ -8,27 +8,21 @@
 }
 
 @media screen and (max-width:1024px) {
-    .lead{
+    .lead {
         max-width: 928px;
         width: calc(100% - 96px);
-        
     }
-    
 }
 
 @media screen and (max-width:768px) {
-    .lead{
+    .lead {
         max-width: 768px;
         width: 100%;
-        
     }
-    
 }
 
 @media screen and (max-width:320px) {
-    .lead{
+    .lead {
         max-width: 320px;
-        
     }
-    
 }
