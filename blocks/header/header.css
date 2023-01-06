@@ -19,7 +19,6 @@
     .header {
         max-width: 720px;
         width: calc(100% - 48px);
-        padding: 28px 0 48px 0;
     }
 }
 

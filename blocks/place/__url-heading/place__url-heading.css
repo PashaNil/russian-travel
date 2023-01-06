@@ -8,7 +8,7 @@
     color: #AAA;
 }
 
-@media screen and (max-width:830px) {
+@media screen and (max-width:945px) {
     .place__url-heading {
         line-height: 100%;
     }
